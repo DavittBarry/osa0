@@ -1,6 +1,0 @@
-selain->palvelin: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
-palvelin-->selain: {"message":"note created"}
-
-note over selain:
-Viesti näyttää selaimessa DOM-apin avulla
-end note
